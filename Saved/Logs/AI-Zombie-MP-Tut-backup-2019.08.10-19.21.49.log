@@ -1,0 +1,1374 @@
+﻿Log file open, 08/10/19 14:08:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AI-Zombie-MP-Tut
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.350067
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: A:/Game Design/UE4/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Engine.ini]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.08.10-19.08.53:345][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Engine.ini]
+[2019.08.10-19.08.53:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Engine.ini]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Engine.ini]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.08.10-19.08.53:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Engine.ini]
+[2019.08.10-19.08.53:346][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Engine.ini]
+[2019.08.10-19.08.53:358][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:358][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.10-19.08.53:358][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.10-19.08.53:358][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:358][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.10-19.08.53:358][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.10-19.08.53:359][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.10-19.08.53:360][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.10-19.08.53:360][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.10-19.08.53:360][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.10-19.08.53:360][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.10-19.08.53:360][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.10-19.08.53:360][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:360][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.10-19.08.53:360][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.10-19.08.53:360][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.10-19.08.53:360][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.10-19.08.53:376][  0]LogHAL: Display: Platform has ~ 32 GB [34305929216 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.08.10-19.08.53:376][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.08.10-19.08.53:376][  0]LogInit: Going up to parent DeviceProfile []
+[2019.08.10-19.08.53:376][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:376][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.08.10-19.08.53:376][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.08.10-19.08.53:376][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:376][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.08.10-19.08.53:376][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:376][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.08.10-19.08.53:376][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.08.10-19.08.53:376][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.08.10-19.08.53:377][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Scalability.ini]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.08.10-19.08.53:378][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.08.10-19.08.53:379][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.08.10-19.08.53:379][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.08.10-19.08.53:379][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Config/Windows/Engine.ini]
+[2019.08.10-19.08.53:379][  0]LogInit: Computer: DESKTOP-N53GCT6
+[2019.08.10-19.08.53:380][  0]LogInit: User: death
+[2019.08.10-19.08.53:380][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.08.10-19.08.53:380][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.10-19.08.53:380][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.08.10-19.08.53:380][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.10-19.08.53:380][  0]LogMemory: Process Physical Memory: 99.61 MB used, 99.61 MB peak
+[2019.08.10-19.08.53:380][  0]LogMemory: Process Virtual Memory: 96.09 MB used, 96.09 MB peak
+[2019.08.10-19.08.53:380][  0]LogMemory: Physical Memory: 13393.02 MB used,  19323.66 MB free, 32716.68 MB total
+[2019.08.10-19.08.53:380][  0]LogMemory: Virtual Memory: 4650.20 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.08.10-19.08.53:438][  0]LogInit: Using OS detected language (en-US).
+[2019.08.10-19.08.53:438][  0]LogInit: Using OS detected locale (en-US).
+[2019.08.10-19.08.53:441][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.10-19.08.53:673][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.10-19.08.53:767][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.10-19.08.53:767][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.10-19.08.54:283][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.10-19.08.54:283][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.10-19.08.54:381][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.08.10-19.08.54:382][  0]LogD3D11RHI:       8088/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.08.10-19.08.54:387][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.10-19.08.54:387][  0]LogD3D11RHI:       0/0/16358 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.10-19.08.54:387][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.10-19.08.54:401][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.10-19.08.54:401][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2019.08.10-19.08.54:401][  0]LogWindows: EnumDisplayDevices:
+[2019.08.10-19.08.54:402][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2019.08.10-19.08.54:403][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.08.10-19.08.54:404][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.10-19.08.54:404][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.08.10-19.08.54:405][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.08.10-19.08.54:405][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.08.10-19.08.54:405][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.08.10-19.08.54:405][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.08.10-19.08.54:405][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2019.08.10-19.08.54:489][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.10-19.08.54:515][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.10-19.08.54:516][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.10-19.08.54:516][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.08.10-19.08.54:527][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.08.10-19.08.55:207][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.08.10-19.08.55:227][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.08.10-19.08.55:247][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.08.10-19.08.55:267][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.08.10-19.08.55:289][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.08.10-19.08.55:307][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.08.10-19.08.55:329][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.08.10-19.08.55:347][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.08.10-19.08.55:359][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.08.10-19.08.55:484][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.08.10-19.08.55:488][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.08.10-19.08.55:562][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.08.10-19.08.55:562][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.08.10-19.08.55:597][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.08.10-19.08.55:597][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.08.10-19.08.55:623][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.08.10-19.08.55:646][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.08.10-19.08.55:670][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.08.10-19.08.55:693][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.08.10-19.08.55:772][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.08.10-19.08.55:772][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.08.10-19.08.55:772][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.10-19.08.55:784][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.08.10-19.08.55:866][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Intermediate/Shaders/WorkingDirectory/16908/).
+[2019.08.10-19.08.55:866][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/death/AppData/Local/Temp/UnrealShaderWorkingDir/AC555F774EB1C264CD6051A7A411B81D/'.
+[2019.08.10-19.08.55:872][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.10-19.08.55:872][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.10-19.08.55:872][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.10-19.08.56:650][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.10-19.08.56:726][  0]LogDerivedDataCache: Loaded boot cache 0.08s 67MB C:/Users/death/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.10-19.08.56:726][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/death/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.08.10-19.08.56:727][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.10-19.08.56:727][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.10-19.08.56:727][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.10-19.08.56:727][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.10-19.08.56:741][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.10-19.08.56:741][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.10-19.08.56:741][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.08.10-19.08.56:754][  0]LogDerivedDataCache: Using Local data cache path C:/Users/death/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.10-19.08.56:754][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.10-19.08.56:754][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.10-19.08.56:790][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.10-19.08.56:791][  0]LogSlate: Using FreeType 2.6.0
+[2019.08.10-19.08.56:793][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.10-19.08.56:940][  0]LogAssetRegistry: FAssetRegistry took 0.0379 seconds to start up
+[2019.08.10-19.08.57:214][  0]LogCollisionProfile: Warning: Profile (OverlapAll) - Custom Channel Name = 'GameTraceChannel1' hasn't been found
+[2019.08.10-19.08.57:414][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.10-19.08.57:593][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.10-19.08.57:593][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.08.10-19.08.57:593][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.08.10-19.08.57:593][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.08.10-19.08.57:593][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.08.10-19.08.57:613][  0]LogNetVersion: AI-Zombie-MP-Tut 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1873300104)
+[2019.08.10-19.08.58:248][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.064376 seconds
+[2019.08.10-19.08.58:261][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.08.10-19.08.58:261][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.08.10-19.08.58:261][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.10-19.08.59:841][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.10-19.08.59:858][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.10-19.09.00:013][  0]SourceControl: Source control is disabled
+[2019.08.10-19.09.00:013][  0]SourceControl: Source control is disabled
+[2019.08.10-19.09.00:016][  0]SourceControl: Source control is disabled
+[2019.08.10-19.09.00:020][  0]SourceControl: Source control is disabled
+[2019.08.10-19.09.00:166][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.10-19.09.00:357][  0]LogOcInput: OculusInput pre-init called
+[2019.08.10-19.09.01:674][  0]LogEngine: Initializing Engine...
+[2019.08.10-19.09.01:677][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.10-19.09.01:679][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.08.10-19.09.01:970][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.08.10-19.09.01:998][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.10-19.09.02:059][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-19.09.02:102][  0]LogInit: FAudioDevice initialized.
+[2019.08.10-19.09.02:102][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.08.10-19.09.02:198][  0]LogDerivedDataCache: Saved boot cache 0.10s 67MB C:/Users/death/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.08.10-19.09.02:206][  0]LogInit: Texture streaming: Enabled
+[2019.08.10-19.09.02:252][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.10-19.09.02:289][  0]LogInit: Transaction tracking system initialized
+[2019.08.10-19.09.02:336][  0]BlueprintLog: New page: Editor Load
+[2019.08.10-19.09.02:491][  0]LocalizationService: Localization service is disabled
+[2019.08.10-19.09.02:975][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/AI-Zombie-MP-Tut/Content/' took 0.02s
+[2019.08.10-19.09.02:975][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.10-19.09.02:975][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.10-19.09.03:311][  0]SourceControl: Source control is disabled
+[2019.08.10-19.09.03:312][  0]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Maps/MAP_DetectionZombiesWithSightCheck.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.10-19.09.03:312][  0]LightingResults: New page: Lighting Build
+[2019.08.10-19.09.03:317][  0]MapCheck: New page: Map Check
+[2019.08.10-19.09.03:317][  0]LightingResults: New page: Lighting Build
+[2019.08.10-19.09.03:347][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.08.10-19.09.04:006][  0]LogAIModule: Creating AISystem for world MAP_DetectionZombiesWithSightCheck
+[2019.08.10-19.09.04:072][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.10-19.09.04:113][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.08.10-19.09.04:114][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.10-19.09.04:114][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.08.10-19.09.04:114][  0]LogFileHelpers: Loading map 'MAP_DetectionZombiesWithSightCheck' took 0.803
+[2019.08.10-19.09.04:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.09.04:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.09.04:481][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.09.04:492][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.09.04:529][  0]LogSlate: Took 0.000634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.10-19.09.06:446][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.08.10-19.09.06:490][  0]LogCollectionManager: Loaded 0 collections in 0.003473 seconds
+[2019.08.10-19.09.06:527][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/AI-Zombie-MP-Tut/Saved/Collections/' took 0.01s
+[2019.08.10-19.09.06:527][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/AI-Zombie-MP-Tut/Content/Developers/death/Collections/' took 0.01s
+[2019.08.10-19.09.06:527][  0]LogFileCache: Scanning file cache for directory 'A:/GIT/Tutorials/AI-Zombie-MP-Tut/Content/Collections/' took 0.00s
+[2019.08.10-19.09.06:527][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.08.10-19.09.06:543][  0]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2739 classes and 661 folders.
+[2019.08.10-19.09.06:553][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.08.10-19.09.06:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:571][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:575][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:577][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:582][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:583][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:586][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:589][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:590][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.08.10-19.09.06:721][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.08.10-19.09.06:742][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2019.08.10-19.09.06:756][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0006 seconds. Added 2 classes and 3 folders.
+[2019.08.10-19.09.06:795][  0]LogSlate: Took 0.000501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.10-19.09.06:795][  0]LogSlate: Took 0.000495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.10-19.09.06:968][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.08.10-19.09.06:968][  0]LogLoad: (Engine Initialization) Total time: 18.76 seconds
+[2019.08.10-19.09.06:968][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.10-19.09.07:650][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
+[2019.08.10-19.09.07:650][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.10-19.09.07:728][  1]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2019.08.10-19.09.07:728][  1]LogAssetRegistry: Asset discovery search completed in 10.8101 seconds
+[2019.08.10-19.09.07:731][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.08.10-19.09.07:731][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2019.08.10-19.09.08:019][ 13]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.10-19.09.14:497][444]LogRenderer: Reallocating scene render targets to support 1568x696 Format 10 NumSamples 1 (Frame:1).
+[2019.08.10-19.09.21:816][904]LogAIModule: Creating AISystem for world MAP_Zombies
+[2019.08.10-19.09.22:043][904]LogAssetEditorManager: Opening Asset editor for World /Game/Framework/Maps/MAP_Zombies.MAP_Zombies
+[2019.08.10-19.09.22:076][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2019.08.10-19.09.22:078][904]Cmd: MAP LOAD FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Maps/MAP_Zombies.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.10-19.09.22:078][904]LightingResults: New page: Lighting Build
+[2019.08.10-19.09.22:079][904]LoadErrors: New page: Loading map: MAP_Zombies.umap
+[2019.08.10-19.09.22:083][904]MapCheck: New page: Map Check
+[2019.08.10-19.09.22:083][904]LightingResults: New page: Lighting Build
+[2019.08.10-19.09.22:112][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2019.08.10-19.09.22:548][904]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.10-19.09.22:582][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.08.10-19.09.22:623][904]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.10-19.09.22:624][904]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2019.08.10-19.09.22:624][904]LogFileHelpers: Loading map 'MAP_Zombies' took 0.547
+[2019.08.10-19.09.35:347][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-19.09.46:108][156]LogAssetEditorManager: Opening Asset editor for Material /Game/Framework/Blueprints/M_Zombie.M_Zombie
+[2019.08.10-19.09.46:113][156]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.46:499][156]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.46:526][156]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.46:550][156]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.10-19.09.46:580][156]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.47:504][156]LogSlate: Took 0.000531 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.08.10-19.09.47:880][161]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.10-19.09.51:075][284]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.10-19.09.51:410][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.51:448][297]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.51:489][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.51:528][297]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.51:567][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.51:603][297]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.51:645][297]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.51:681][297]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.51:752][299]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.51:792][299]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.52:099][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.52:133][320]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.52:160][320]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.52:197][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.52:237][320]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.52:274][320]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.52:811][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.52:845][339]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.52:879][339]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2019.08.10-19.09.52:913][339]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.09.52:937][339]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.10-19.09.54:708][402]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.10-19.09.57:183][470]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.10-19.09.59:804][575]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.10-19.10.00:841][633]LogMaterialEditor: Applying material M_Zombie
+[2019.08.10-19.10.01:588][633]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.10.01:695][633]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.10.01:743][633]LogMaterial: Display: Missing cached shader map for material M_Zombie, compiling. 
+[2019.08.10-19.10.01:822][633]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.08.10-19.10.01:834][633]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.10-19.10.06:440][633]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.10-19.10.06:440][633]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.10-19.10.06:440][633]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.10-19.10.06:462][633]TextureStreamingBuild: Display: Compiling optional shaders took 4.640 seconds.
+[2019.08.10-19.10.06:497][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.08.10-19.10.08:644][732]LogMaterialEditor: Saving and Compiling material M_Zombie
+[2019.08.10-19.10.11:939][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Blueprints/M_Zombie" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/M_Zombie.uasset" SILENT=true
+[2019.08.10-19.10.11:956][732]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/M_Zombie0FABBDE74AA2BDC3C6F863B0A8CD2B3A.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/M_Zombie.uasset'
+[2019.08.10-19.10.11:999][732]MaterialEditorStats: Base pass shader: 84 instructions
+[2019.08.10-19.10.11:999][732]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2019.08.10-19.10.11:999][732]MaterialEditorStats: Base pass vertex shader: 86 instructions
+[2019.08.10-19.10.11:999][732]MaterialEditorStats: Texture samplers: 1/16
+[2019.08.10-19.10.16:028][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-19.10.21:297][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-19.10.29:510][621]Cmd: DELETE
+[2019.08.10-19.10.29:510][621]Cmd: ACTOR DELETE
+[2019.08.10-19.10.29:549][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:550][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:551][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:552][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:553][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:555][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:556][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:559][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:560][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:562][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:564][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:566][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:569][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:571][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:573][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:575][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:577][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:578][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:580][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:581][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:583][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:584][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:586][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:587][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:589][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:590][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:591][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:594][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:596][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:597][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:599][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:602][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:606][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:608][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:612][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:613][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:614][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:616][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:617][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:619][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:620][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:621][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:623][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:624][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:624][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:625][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:626][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:627][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:629][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:631][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:632][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:634][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:637][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:639][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:640][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:642][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:643][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:644][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:646][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:647][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:648][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:649][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:650][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:652][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:653][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:653][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:654][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:656][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:657][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:659][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:660][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:661][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:664][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:667][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:670][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:672][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:673][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:675][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:676][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:677][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:679][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:680][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:682][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:683][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:684][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:685][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:686][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:687][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:688][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:689][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:690][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:690][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:692][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:692][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:693][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:694][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:696][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:697][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:699][621]LogEditorActor: Deleted Actor: BP_AI_SimpleZom_C
+[2019.08.10-19.10.29:735][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.10-19.10.29:736][621]LogEditorActor: Deleted 99 Actors (0.226 secs)
+[2019.08.10-19.10.32:092][777]LogEditorViewport: Clicking on Actor (LMB): BP_AI_SimpleZom_C (BP_AI_Zombie)
+[2019.08.10-19.10.34:812][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-19.10.36:718][994]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.10.36:718][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-19.10.36:719][994]PIE: New page: PIE session: MAP_Zombies (Aug 10, 2019, 9:10:36 AM)
+[2019.08.10-19.10.36:731][994]LogPlayLevel: Creating play world package: /Game/Framework/Maps/UEDPIE_0_MAP_Zombies
+[2019.08.10-19.10.36:757][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025310s)
+[2019.08.10-19.10.36:758][994]LogAIModule: Creating AISystem for world MAP_Zombies
+[2019.08.10-19.10.36:758][994]LogPlayLevel: PIE: World Init took: (0.001226s)
+[2019.08.10-19.10.36:758][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/MAP_Zombies.MAP_Zombies to /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies (0.027321s)
+[2019.08.10-19.10.36:787][994]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.08.10-19.10.36:833][994]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-19.10.36:863][994]LogInit: FAudioDevice initialized.
+[2019.08.10-19.10.36:863][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-19.10.36:913][994]LogLoad: Game class is 'BP_CoreGM_C'
+[2019.08.10-19.10.36:916][994]LogWorld: Bringing World /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies up for play (max tick rate 0) at 2019.08.10-14.10.36
+[2019.08.10-19.10.36:917][994]LogWorld: Bringing up level for play took: 0.003067
+[2019.08.10-19.10.36:949][994]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2019.08.10-19.10.36:952][994]PIE: Play in editor start time for /Game/Framework/Maps/UEDPIE_0_MAP_Zombies 0.767
+[2019.08.10-19.10.36:952][994]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.10.42:338][319]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.10.42:338][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.10.42:371][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-19.10.42:371][319]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.10.42:402][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.10.42:406][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.08.10-19.10.42:447][320]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.08.10-19.10.43:501][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-19.10.53:539][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Framework/Core/BP_AI_Base.BP_AI_Base
+[2019.08.10-19.10.53:983][  5]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2019.08.10-19.10.56:487][  6]LogSlate: Took 0.000496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.08.10-19.11.02:810][410]BlueprintLog: New page: Compile BP_AI_Base
+[2019.08.10-19.11.03:230][410]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2019.08.10-19.11.03:337][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_AI_Base" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset" SILENT=true
+[2019.08.10-19.11.03:474][410]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_Base952E19B346555826920266BC1F83A2A5.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset'
+[2019.08.10-19.11.04:763][437]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-19.11.04:816][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.11.04:816][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-19.11.04:816][437]PIE: New page: PIE session: MAP_Zombies (Aug 10, 2019, 9:11:04 AM)
+[2019.08.10-19.11.04:817][437]LogPlayLevel: Creating play world package: /Game/Framework/Maps/UEDPIE_0_MAP_Zombies
+[2019.08.10-19.11.04:837][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020277s)
+[2019.08.10-19.11.04:838][437]LogAIModule: Creating AISystem for world MAP_Zombies
+[2019.08.10-19.11.04:838][437]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2019.08.10-19.11.04:839][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/MAP_Zombies.MAP_Zombies to /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies (0.021598s)
+[2019.08.10-19.11.04:888][437]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2019.08.10-19.11.04:933][437]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-19.11.04:961][437]LogInit: FAudioDevice initialized.
+[2019.08.10-19.11.04:995][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.11.05:042][437]LogLoad: Game class is 'BP_CoreGM_C'
+[2019.08.10-19.11.05:047][437]LogWorld: Bringing World /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies up for play (max tick rate 0) at 2019.08.10-14.11.05
+[2019.08.10-19.11.05:048][437]LogWorld: Bringing up level for play took: 0.005125
+[2019.08.10-19.11.05:072][437]PIE: Play in editor start time for /Game/Framework/Maps/UEDPIE_0_MAP_Zombies 0.888
+[2019.08.10-19.11.05:074][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.11.28:556][686]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.11.28:557][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.11.28:575][686]LogSlate: Window 'AI-Zombie-MP-Tut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.10-19.11.28:643][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-19.11.28:644][686]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.11.28:711][686]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2019.08.10-19.11.28:833][687]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.08.10-19.11.39:909][324]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Framework/Core/BP_CoreCharacter.BP_CoreCharacter
+[2019.08.10-19.11.51:147][999]BlueprintLog: New page: Compile BP_CoreCharacter
+[2019.08.10-19.11.51:694][999]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2019.08.10-19.11.51:804][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_CoreCharacter" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_CoreCharacter.uasset" SILENT=true
+[2019.08.10-19.11.51:941][999]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_CoreCharacterF387B32947A6D877AF64FB874E6503DF.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_CoreCharacter.uasset'
+[2019.08.10-19.11.51:976][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_AI_Base" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset" SILENT=true
+[2019.08.10-19.11.52:114][999]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_BaseE1C75F2A48389921794B20ACBF261BFF.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset'
+[2019.08.10-19.13.12:304][548]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Framework/Blueprints/BP_AI_SimpleZom.BP_AI_SimpleZom
+[2019.08.10-19.15.34:393][861]BlueprintLog: New page: Compile BP_AI_SimpleZom
+[2019.08.10-19.15.34:776][861]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2019.08.10-19.15.34:861][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Blueprints/BP_AI_SimpleZom" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SimpleZom.uasset" SILENT=true
+[2019.08.10-19.15.34:902][861]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_SimpleZomDB6B7D034831502BA1F9EBB8FA820FC4.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SimpleZom.uasset'
+[2019.08.10-19.15.49:975][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.08.10-19.15.50:777][439]LogSlate: Window 'Save Content' being destroyed
+[2019.08.10-19.15.50:849][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_CoreCharacter" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_CoreCharacter.uasset" SILENT=true
+[2019.08.10-19.15.50:981][439]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_CoreCharacterDC4229B94DA57DA713F266AFB3047A20.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_CoreCharacter.uasset'
+[2019.08.10-19.15.51:046][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2019.08.10-19.15.51:355][439]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/MAP_Zombies2ABF4A1A449D02D4691F3B86B26E8EE3.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Maps/MAP_Zombies.umap'
+[2019.08.10-19.15.51:408][439]LogFileHelpers: Saving map 'MAP_Zombies' took 0.410
+[2019.08.10-19.16.13:795][ 70]BlueprintLog: New page: Compile BP_AI_Base
+[2019.08.10-19.16.14:383][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.08.10-19.16.14:580][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_AI_Base" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset" SILENT=true
+[2019.08.10-19.16.15:501][ 70]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_Base2D09FA8140B948615AB3C9B202C3A917.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset'
+[2019.08.10-19.16.15:552][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Blueprints/BP_AI_SightZom" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SightZom.uasset" SILENT=true
+[2019.08.10-19.16.15:682][ 70]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_SightZom0857FABC44874ECDFFEC30BD5A974555.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SightZom.uasset'
+[2019.08.10-19.16.15:713][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Blueprints/BP_AI_SimpleZom" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SimpleZom.uasset" SILENT=true
+[2019.08.10-19.16.15:750][ 70]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_SimpleZom02A9145049F229F89402C0A75C0C3064.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SimpleZom.uasset'
+[2019.08.10-19.18.34:714][586]BlueprintLog: New page: Compile BP_AI_Base
+[2019.08.10-19.18.35:199][586]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2019.08.10-19.18.35:334][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_AI_Base" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset" SILENT=true
+[2019.08.10-19.18.35:494][586]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_BaseE6C5B5D7428EC9CEE21E7EB3B8E3A220.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset'
+[2019.08.10-19.18.39:868][758]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.08.10-19.18.40:908][758]LogSlate: Window 'Save Content' being destroyed
+[2019.08.10-19.18.41:021][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.08.10-19.18.41:305][758]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/MAP_Zombies829B6862475611C914AC23A0B4FC1664.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Maps/MAP_Zombies.umap'
+[2019.08.10-19.18.41:353][758]LogFileHelpers: Saving map 'MAP_Zombies' took 0.379
+[2019.08.10-19.18.42:641][805]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-19.18.42:738][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.18.42:738][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-19.18.42:738][805]PIE: New page: PIE session: MAP_Zombies (Aug 10, 2019, 9:18:42 AM)
+[2019.08.10-19.18.42:739][805]LogPlayLevel: Creating play world package: /Game/Framework/Maps/UEDPIE_0_MAP_Zombies
+[2019.08.10-19.18.42:760][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021766s)
+[2019.08.10-19.18.42:761][805]LogAIModule: Creating AISystem for world MAP_Zombies
+[2019.08.10-19.18.42:761][805]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2019.08.10-19.18.42:761][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/MAP_Zombies.MAP_Zombies to /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies (0.023277s)
+[2019.08.10-19.18.42:821][805]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2019.08.10-19.18.42:873][805]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-19.18.42:904][805]LogInit: FAudioDevice initialized.
+[2019.08.10-19.18.42:948][805]LogLoad: Game class is 'BP_CoreGM_C'
+[2019.08.10-19.18.42:951][805]LogWorld: Bringing World /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies up for play (max tick rate 0) at 2019.08.10-14.18.42
+[2019.08.10-19.18.42:952][805]LogWorld: Bringing up level for play took: 0.003498
+[2019.08.10-19.18.42:968][805]PIE: Play in editor start time for /Game/Framework/Maps/UEDPIE_0_MAP_Zombies 0.783
+[2019.08.10-19.18.42:968][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.18.47:298][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.18.47:299][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.18.47:353][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-19.18.47:353][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.18.47:411][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.18.47:416][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.08.10-19.18.47:464][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.08.10-19.18.52:965][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-19.19.03:788][166]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-19.19.03:802][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.19.03:803][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-19.19.03:803][166]PIE: New page: PIE session: MAP_Zombies (Aug 10, 2019, 9:19:03 AM)
+[2019.08.10-19.19.03:803][166]LogPlayLevel: Creating play world package: /Game/Framework/Maps/UEDPIE_0_MAP_Zombies
+[2019.08.10-19.19.03:820][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016919s)
+[2019.08.10-19.19.03:820][166]LogAIModule: Creating AISystem for world MAP_Zombies
+[2019.08.10-19.19.03:821][166]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2019.08.10-19.19.03:821][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/MAP_Zombies.MAP_Zombies to /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies (0.018329s)
+[2019.08.10-19.19.03:866][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.08.10-19.19.03:905][166]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-19.19.03:931][166]LogInit: FAudioDevice initialized.
+[2019.08.10-19.19.03:967][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.19.04:009][166]LogLoad: Game class is 'BP_CoreGM_C'
+[2019.08.10-19.19.04:017][166]LogWorld: Bringing World /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies up for play (max tick rate 0) at 2019.08.10-14.19.04
+[2019.08.10-19.19.04:019][166]LogWorld: Bringing up level for play took: 0.008422
+[2019.08.10-19.19.04:045][166]PIE: Play in editor start time for /Game/Framework/Maps/UEDPIE_0_MAP_Zombies -0.14
+[2019.08.10-19.19.04:045][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.19.06:928][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.10-19.19.24:718][ 64]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.19.24:718][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.19.24:740][ 64]LogSlate: Window 'AI-Zombie-MP-Tut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.10-19.19.24:835][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-19.19.24:835][ 64]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.19.24:901][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.08.10-19.19.25:012][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.08.10-19.19.32:633][554]BlueprintLog: New page: Compile BP_AI_Base
+[2019.08.10-19.19.32:995][554]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2019.08.10-19.19.33:172][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_AI_Base" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset" SILENT=true
+[2019.08.10-19.19.33:364][554]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_BaseADA170984585A3CE143DEF913337C0FA.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset'
+[2019.08.10-19.19.33:399][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Blueprints/BP_AI_SightZom" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SightZom.uasset" SILENT=true
+[2019.08.10-19.19.33:540][554]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_SightZomE52E502A48A2BDFFCA045DB992253617.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SightZom.uasset'
+[2019.08.10-19.19.33:580][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Blueprints/BP_AI_SimpleZom" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SimpleZom.uasset" SILENT=true
+[2019.08.10-19.19.33:623][554]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_SimpleZomD67602874EFF5AEB01C2718767873E19.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Blueprints/BP_AI_SimpleZom.uasset'
+[2019.08.10-19.19.34:677][607]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.10-19.19.34:770][607]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.19.34:771][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.10-19.19.34:771][607]PIE: New page: PIE session: MAP_Zombies (Aug 10, 2019, 9:19:34 AM)
+[2019.08.10-19.19.34:771][607]LogPlayLevel: Creating play world package: /Game/Framework/Maps/UEDPIE_0_MAP_Zombies
+[2019.08.10-19.19.34:792][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020696s)
+[2019.08.10-19.19.34:793][607]LogAIModule: Creating AISystem for world MAP_Zombies
+[2019.08.10-19.19.34:793][607]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2019.08.10-19.19.34:793][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Framework/Maps/MAP_Zombies.MAP_Zombies to /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies (0.022265s)
+[2019.08.10-19.19.34:847][607]LogUObjectHash: Compacting FUObjectHashTables data took   6.70ms
+[2019.08.10-19.19.34:891][607]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.10-19.19.34:916][607]LogInit: FAudioDevice initialized.
+[2019.08.10-19.19.34:953][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.19.34:998][607]LogLoad: Game class is 'BP_CoreGM_C'
+[2019.08.10-19.19.35:002][607]LogWorld: Bringing World /Game/Framework/Maps/UEDPIE_0_MAP_Zombies.MAP_Zombies up for play (max tick rate 0) at 2019.08.10-14.19.35
+[2019.08.10-19.19.35:002][607]LogWorld: Bringing up level for play took: 0.003114
+[2019.08.10-19.19.35:024][607]PIE: Play in editor start time for /Game/Framework/Maps/UEDPIE_0_MAP_Zombies 0.84
+[2019.08.10-19.19.35:025][607]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.20.04:800][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.20.04:800][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.08.10-19.20.04:825][158]LogSlate: Window 'AI-Zombie-MP-Tut Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.08.10-19.20.04:915][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.08.10-19.20.04:915][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel' has LevelScriptBlueprint '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies' with GeneratedClass '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies_C' with ClassGeneratedBy '/Game/Framework/Maps/MAP_Zombies.MAP_Zombies:PersistentLevel.MAP_Zombies'
+[2019.08.10-19.20.04:992][158]LogUObjectHash: Compacting FUObjectHashTables data took   5.85ms
+[2019.08.10-19.20.05:109][159]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.08.10-19.20.24:100][393]BlueprintLog: New page: Compile BP_AI_Base
+[2019.08.10-19.20.24:484][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2019.08.10-19.20.24:660][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_AI_Base" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset" SILENT=true
+[2019.08.10-19.20.24:805][393]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_Base176405A54F75919AA4079C8E5EA4BEF7.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset'
+[2019.08.10-19.20.32:750][844]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.08.10-19.20.33:665][844]LogSlate: Window 'Save Content' being destroyed
+[2019.08.10-19.20.33:724][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Framework/Core/BP_AI_Base" FILE="../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset" SILENT=true
+[2019.08.10-19.20.33:879][844]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/BP_AI_BaseF11EEEEC41DB4DEF97F221A17659E1E9.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Core/BP_AI_Base.uasset'
+[2019.08.10-19.20.33:950][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2019.08.10-19.20.34:193][844]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/MAP_ZombiesC433BD754508DE097D073888633B5931.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Maps/MAP_Zombies.umap'
+[2019.08.10-19.20.34:240][844]LogFileHelpers: Saving map 'MAP_Zombies' took 0.337
+[2019.08.10-19.20.38:281][ 10]LogEditorViewport: Clicking on Actor (LMB): BP_AI_SimpleZom_C (BP_AI_Zombie)
+[2019.08.10-19.20.53:152][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-19.20.59:972][935]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-19.21.20:233][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-19.21.33:387][ 71]Cmd: SELECT NONE
+[2019.08.10-19.21.35:111][154]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.10-19.21.35:251][157]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.08.10-19.21.36:259][157]LogSlate: Window 'Save Content' being destroyed
+[2019.08.10-19.21.36:381][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.08.10-19.21.37:419][157]LogSavePackage: Moving '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Saved/MAP_Zombies138248A049501A28D18C4C8B72867821.tmp' to '../../../../../../../GIT/Tutorials/AI-Zombie-MP-Tut/Content/Framework/Maps/MAP_Zombies.umap'
+[2019.08.10-19.21.37:476][157]LogFileHelpers: Saving map 'MAP_Zombies' took 1.150
+[2019.08.10-19.21.43:581][375]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2019.08.10-19.21.43:889][375]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.10-19.21.44:024][375]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.08.10-19.21.44:163][375]LogSlate: Window 'AI-Zombie-MP-Tut - Unreal Editor' being destroyed
+[2019.08.10-19.21.44:168][375]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.10-19.21.45:829][376]Cmd: QUIT_EDITOR
+[2019.08.10-19.21.46:102][376]LogExit: Preparing to exit.
+[2019.08.10-19.21.47:301][376]LogExit: Editor shut down
+[2019.08.10-19.21.47:302][376]LogExit: Transaction tracking system shut down
+[2019.08.10-19.21.47:705][376]LogExit: Object subsystem successfully closed.
+[2019.08.10-19.21.47:735][376]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.10-19.21.47:742][376]LogD3D11RHI: Shutdown
+[2019.08.10-19.21.47:742][376]LogD3D11RHI: CleanupD3DDevice
+[2019.08.10-19.21.47:743][376]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.10-19.21.47:743][376]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.10-19.21.47:743][376]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.10-19.21.47:743][376]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.10-19.21.47:743][376]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.08.10-19.21.47:743][376]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.08.10-19.21.47:927][376]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module BlueprintGraph (654)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (652)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module Voice (650)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (648)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module WorldBrowser (646)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module SceneOutliner (644)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module AddContentDialog (642)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module WidgetCarousel (641)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module EditorWidgets (638)
+[2019.08.10-19.21.47:947][376]LogModuleManager: Shutting down and abandoning module CollectionManager (636)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (634)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2019.08.10-19.21.47:948][376]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2019.08.10-19.21.47:949][376]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2019.08.10-19.21.47:949][376]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2019.08.10-19.21.47:949][376]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2019.08.10-19.21.47:949][376]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2019.08.10-19.21.47:949][376]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2019.08.10-19.21.47:949][376]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2019.08.10-19.21.47:949][376]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2019.08.10-19.21.47:950][376]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2019.08.10-19.21.47:950][376]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2019.08.10-19.21.47:950][376]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2019.08.10-19.21.47:950][376]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2019.08.10-19.21.47:950][376]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2019.08.10-19.21.47:950][376]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2019.08.10-19.21.48:873][376]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2019.08.10-19.21.48:925][376]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2019.08.10-19.21.48:925][376]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2019.08.10-19.21.48:925][376]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2019.08.10-19.21.48:925][376]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2019.08.10-19.21.48:925][376]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2019.08.10-19.21.48:925][376]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2019.08.10-19.21.48:926][376]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2019.08.10-19.21.48:926][376]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2019.08.10-19.21.48:926][376]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2019.08.10-19.21.48:926][376]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2019.08.10-19.21.48:926][376]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2019.08.10-19.21.48:940][376]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2019.08.10-19.21.48:940][376]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2019.08.10-19.21.48:940][376]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2019.08.10-19.21.48:940][376]LogModuleManager: Shutting down and abandoning module ModuleUI (450)
+[2019.08.10-19.21.48:940][376]LogModuleManager: Shutting down and abandoning module MovieSceneTools (448)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module OutputLog (446)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module GammaUI (444)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module Documentation (442)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module LiveCoding (440)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module LevelSequence (438)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (436)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module MovieScene (434)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (432)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module LauncherPlatform (430)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module AnalyticsET (428)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module PortalServices (426)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module PortalRpc (424)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module MessagingRpc (422)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module AIModule (420)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module GameplayDebugger (419)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module AITestSuite (417)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module NavigationSystem (415)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module DesktopPlatform (412)
+[2019.08.10-19.21.48:941][376]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2019.08.10-19.21.48:944][376]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2019.08.10-19.21.49:053][376]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2019.08.10-19.21.49:053][376]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2019.08.10-19.21.49:053][376]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.08.10-19.21.49:054][376]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module SignificanceManager (296)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (288)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2019.08.10-19.21.49:055][376]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2019.08.10-19.21.49:155][376]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (280)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (278)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (276)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (274)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module MagicLeapController (272)
+[2019.08.10-19.21.49:256][376]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module MagicLeapAR (270)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module AugmentedReality (269)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (266)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (264)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module FacialAnimation (262)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module DataValidation (260)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (258)
+[2019.08.10-19.21.49:256][376]LogModuleManager: Shutting down and abandoning module LevelEditor (257)
+[2019.08.10-19.21.49:257][376]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (256)
+[2019.08.10-19.21.49:258][376]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (254)
+[2019.08.10-19.21.49:258][376]LogModuleManager: Shutting down and abandoning module MainFrame (252)
+[2019.08.10-19.21.49:258][376]LogModuleManager: Shutting down and abandoning module HotReload (251)
+[2019.08.10-19.21.49:260][376]LogModuleManager: Shutting down and abandoning module ContentBrowser (247)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module TreeMap (245)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module AnimationSharing (242)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (240)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module AISupportModule (238)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (232)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.08.10-19.21.49:265][376]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (218)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2019.08.10-19.21.49:266][376]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2019.08.10-19.21.49:267][376]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2019.08.10-19.21.49:267][376]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2019.08.10-19.21.49:270][376]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2019.08.10-19.21.49:270][376]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2019.08.10-19.21.49:270][376]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2019.08.10-19.21.49:270][376]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2019.08.10-19.21.49:270][376]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module Core (174)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2019.08.10-19.21.49:271][376]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2019.08.10-19.21.49:272][376]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.10-19.21.49:325][376]LogDerivedDataCache: Shutdown
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2019.08.10-19.21.49:326][376]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2019.08.10-19.21.49:328][376]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2019.08.10-19.21.49:328][376]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2019.08.10-19.21.49:328][376]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2019.08.10-19.21.49:328][376]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2019.08.10-19.21.49:339][376]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2019.08.10-19.21.49:340][376]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2019.08.10-19.21.49:340][376]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2019.08.10-19.21.49:340][376]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2019.08.10-19.21.49:340][376]LogHMD: Freeing OpenVRDLLHandle.
+[2019.08.10-19.21.49:340][376]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2019.08.10-19.21.49:340][376]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2019.08.10-19.21.49:340][376]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2019.08.10-19.21.49:340][376]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2019.08.10-19.21.49:340][376]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2019.08.10-19.21.49:342][376]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2019.08.10-19.21.49:342][376]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2019.08.10-19.21.49:361][376]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2019.08.10-19.21.49:361][376]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.10-19.21.49:361][376]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3626C8F6-4AB7-D0E6-398D-51AB4B869F7D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=a2af95544f0938fc35241bbea866488e%7C4a680e3ea4b04fcfb5b075835c5b546b%7Cd27101be-b892-4db8-97d0-a064c037c236&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.10-19.21.49:362][376]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2019.08.10-19.21.49:363][376]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2019.08.10-19.21.49:366][376]LogModuleManager: Shutting down and abandoning module Media (45)
+[2019.08.10-19.21.49:373][376]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2019.08.10-19.21.49:373][376]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2019.08.10-19.21.49:374][376]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.08.10-19.21.49:374][376]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.08.10-19.21.49:374][376]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.08.10-19.21.49:374][376]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.08.10-19.21.49:374][376]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.08.10-19.21.49:374][376]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.08.10-19.21.49:374][376]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.08.10-19.21.49:375][376]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.08.10-19.21.49:375][376]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.08.10-19.21.49:375][376]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.08.10-19.21.49:375][376]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.08.10-19.21.49:375][376]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.08.10-19.21.49:375][376]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.08.10-19.21.49:375][376]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.08.10-19.21.49:375][376]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.08.10-19.21.49:376][376]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.08.10-19.21.49:376][376]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.08.10-19.21.49:376][376]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.08.10-19.21.49:376][376]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.08.10-19.21.49:387][376]LogExit: Exiting.
+[2019.08.10-19.21.49:418][376]Log file closed, 08/10/19 14:21:49
